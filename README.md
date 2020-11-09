@@ -259,4 +259,30 @@ void listaProduto(int pQtProduto) {
     fflush(stdout);
 }
 
+## Descrição
+ -Constantes linhas 12, 28
 
+-Variáveis linhas 52,67,90,91,136,137,154,155,182,183,
+
+-Operações aritméticas: 107,155
+
+-Operações lógicas 163,
+
+-Comandos de atribuição 
+linhas: 28,70,106,107,137,140,154,155,170,176,183,202,203,227
+
+-Comandos de entrada e saída
+linhas:57,58,59,60,75,79,80,82,92,94,96,97,99,142,146,148,150,159,161,186,188,192,195,
+197,199,205,219,229.
+
+-Estrutura condicional simples e/ou estrutura condicional composta
+e/ou estrutura condicional de múltipla escolha : 
+linhas: 66,190,194,
+
+-Estrutura de repetição com teste no início e/ou estrutura de repetição
+com teste no fim e/ou estrutura de repetição com variável de controle
+linhas 56,139,185,228
+
+-Estruturas de dados homogêneas: vetores numéricos, vetores de
+caracteres e/ou matrizes
+linhas: 144,228,207
